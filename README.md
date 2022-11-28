@@ -17,6 +17,7 @@ Python>=3.7
 PyTorch
 
 requirments.txt
+
 **Dataset**
 --------------------
 For the full CelebA dataset, please refer to http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
