@@ -16,7 +16,7 @@ Python>=3.7
 
 PyTorch
 
-requirments.txt
+requirements.txt
 
 **Dataset**
 --------------------
