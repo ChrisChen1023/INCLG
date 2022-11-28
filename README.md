@@ -1,6 +1,6 @@
 # INCLG: A Multi-task Image Inpainting Approach to Non-cleft Lip Generation
 
-![Image text](https://github.com/ChrisChen1023/INCLG/blob/main/overview.png)
+![Image text](https://github.com/ChrisChen1023/INCLG/blob/main/software_overview6.png)
 
 =================================================================================
 
